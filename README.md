@@ -4,11 +4,11 @@
 
 | 模块 | API数量 | 核心功能 | 文档链接 |
 |------|---------|----------|----------|
-| **🔐 许可证管理** | 4 | 授权验证、激活管理 | [license-module.md](./license-module.md) |
-| **🤖 AI模型** | 4 | 人脸检测、特征提取 | [ai-models-module.md](./ai-models-module.md) |
-| **📷 相机控制** | 5 | 相机操作、帧捕获 | [camera-control-module.md](./camera-control-module.md) |
-| **👥 用户数据库** | 12 | 用户管理、数据持久化 | [user-database-module.md](./user-database-module.md) |
-| **🔄 业务流程** | 2 | 端到端业务封装 | [pipeline-business-module.md](./pipeline-business-module.md) |
+| **🔐 许可证管理** | 4 | 授权验证、激活管理 | [license-module.md](./docs/license-module.md) |
+| **🤖 AI模型** | 4 | 人脸检测、特征提取 | [ai-models-module.md](./docs/ai-models-module.md) |
+| **📷 相机控制** | 5 | 相机操作、帧捕获 | [camera-control-module.md](./docs/camera-control-module.md) |
+| **👥 用户数据库** | 12 | 用户管理、数据持久化 | [user-database-module.md](./docs/user-database-module.md) |
+| **🔄 业务流程** | 2 | 端到端业务封装 | [pipeline-business-module.md](./docspipeline-business-module.md) |
 
 **总计：27个核心API**
 
